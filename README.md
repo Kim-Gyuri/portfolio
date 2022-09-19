@@ -16,6 +16,7 @@
 > 개인 프로젝트  
 >개발 기간: 2022.7.28 ~ 2022.9  
 >  
+> [프로젝트 상세 설명](https://thumper.tistory.com/category/%EA%B0%9C%EC%9D%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 ` Backend`
 + Java 11
@@ -35,7 +36,6 @@
 + Thymeleaf
 <br>
   
-
 ---
 
 ### 2. [공부 모음집](https://github.com/Kim-Gyuri/studying_programming_archive)
