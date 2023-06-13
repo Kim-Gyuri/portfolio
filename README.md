@@ -11,12 +11,11 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [쇼핑몰 만들기](https://github.com/Kim-Gyuri/SpringBoot-Online-Shopping-Store)
-
-> 개인 프로젝트  
->개발 기간: 2022.7.28 ~ 2022.9  
->  
-> [프로젝트 상세 설명](https://thumper.tistory.com/category/%EA%B0%9C%EC%9D%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+### 1. [쇼핑몰 만들기](https://github.com/Kim-Gyuri/Improved-SpringBoot-Online-Shopping-Store/tree/main)
+> 개인 프로젝트 <br>
+> 개발 기간: 2023.5.20 ~  <br>
+>  이전에 만든 프로젝트 [쇼핑몰 만들기](https://github.com/Kim-Gyuri/SpringBoot-Online-Shopping-Store)(개발 기간: 2022.7.28 ~ 2022.9)를 개선했다.  
+> [프로젝트 상세 설명](https://thumper.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B0%9C%EC%9D%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20V2)
 
 ` Backend`
 + Java 11
